@@ -1,0 +1,40 @@
+.center {
+    margin: auto;
+    left: 0px;
+    right: 0px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    bottom: 0;
+    top: 0;
+}
+
+.center p {
+    font-size: 24px;
+    font-family: fantasy;
+}
+
+.center a {
+    font-size: 24px;
+    font-family: fantasy;
+}
+
+.center h3 {
+    font-size: 32px;
+    font-family: fantasy;
+}
+
+.skills p {
+    margin: 0px;
+    font-weight: 700;
+}
+.list {
+  list-style-position: inside;
+  padding-left: 0px;
+}
+
+.list li{
+    font-family: fantasy;
+}
